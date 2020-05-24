@@ -31,7 +31,7 @@
                 />
               </div>
               <div class="col-sm-12 col-xs-12 text-center" v-else>
-                <h3>No Data Found !!</h3>
+                <h3>Loading....</h3>
               </div>
               <!-- Chart Section Ends -->
             </div>
